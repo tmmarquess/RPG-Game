@@ -532,7 +532,7 @@
 							"left": 416,
 							"top": 248,
 							"width": 252.42333984375,
-							"height": 161,
+							"height": 153,
 							"nameCompartment": {
 								"$ref": "AAAAAAGD4w/qB/HAYkM="
 							},
@@ -1092,8 +1092,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -97,
-									"top": -89,
+									"left": -57,
+									"top": -25,
 									"width": 10,
 									"height": 10
 								},
@@ -1108,8 +1108,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -97,
-									"top": -89,
+									"left": -57,
+									"top": -25,
 									"width": 10,
 									"height": 10
 								}
@@ -1119,7 +1119,7 @@
 							"left": 752,
 							"top": 432,
 							"width": 211.2333984375,
-							"height": 148,
+							"height": 137,
 							"nameCompartment": {
 								"$ref": "AAAAAAGD4xE8evJEdgg="
 							},
@@ -1158,7 +1158,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 701,
-									"top": 429,
+									"top": 425,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1179,7 +1179,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 694,
-									"top": 442,
+									"top": 438,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1200,7 +1200,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 716,
-									"top": 402,
+									"top": 398,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1218,7 +1218,7 @@
 								"$ref": "AAAAAAGD4xE8evJDCVA="
 							},
 							"lineStyle": 1,
-							"points": "751:446;668:399",
+							"points": "751:441;668:395",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGD4xE8e/JOLhU="
@@ -1834,7 +1834,7 @@
 							"left": 104,
 							"top": 424,
 							"width": 233.6279296875,
-							"height": 163,
+							"height": 153,
 							"nameCompartment": {
 								"$ref": "AAAAAAGD4xJcmPLVGo0="
 							},
@@ -1873,7 +1873,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 368,
-									"top": 398,
+									"top": 394,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1894,7 +1894,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 361,
-									"top": 385,
+									"top": 381,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1915,7 +1915,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 383,
-									"top": 425,
+									"top": 421,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1933,7 +1933,7 @@
 								"$ref": "AAAAAAGD4xJcmPLUhfI="
 							},
 							"lineStyle": 1,
-							"points": "338:440;415:397",
+							"points": "338:436;415:393",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGD4xJcmfLf8/g="
@@ -2067,7 +2067,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 477,
-											"top": 741,
+											"top": 725,
 											"width": 135.05908203125,
 											"height": 13,
 											"text": "«interface»"
@@ -2080,7 +2080,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 477,
-											"top": 756,
+											"top": 740,
 											"width": 135.05908203125,
 											"height": 13,
 											"text": "ComportamentoFeroz"
@@ -2094,7 +2094,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 501,
-											"top": 653,
+											"top": 621,
 											"width": 135.05908203125,
 											"height": 13,
 											"text": "(from Java)"
@@ -2108,14 +2108,14 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 62,
-											"top": -396,
+											"top": -428,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 472,
-									"top": 736,
+									"top": 720,
 									"width": 145.05908203125,
 									"height": 38,
 									"stereotypeLabel": {
@@ -2142,7 +2142,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 472,
-									"top": 774,
+									"top": 758,
 									"width": 145.05908203125,
 									"height": 10
 								},
@@ -2167,7 +2167,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 477,
-											"top": 789,
+											"top": 773,
 											"width": 135.05908203125,
 											"height": 13,
 											"text": "+atirarFogo(): void",
@@ -2184,7 +2184,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 477,
-											"top": 804,
+											"top": 788,
 											"width": 135.05908203125,
 											"height": 13,
 											"text": "+voar(): void",
@@ -2201,7 +2201,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 477,
-											"top": 819,
+											"top": 803,
 											"width": 135.05908203125,
 											"height": 13,
 											"text": "+morder(): void",
@@ -2210,7 +2210,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 472,
-									"top": 784,
+									"top": 768,
 									"width": 145.05908203125,
 									"height": 53
 								},
@@ -2226,7 +2226,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 472,
-									"top": 837,
+									"top": 821,
 									"width": 145.05908203125,
 									"height": 10
 								},
@@ -2242,7 +2242,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 31,
-									"top": -198,
+									"top": -214,
 									"width": 10,
 									"height": 10
 								}
@@ -2250,7 +2250,7 @@
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 472,
-							"top": 736,
+							"top": 720,
 							"width": 145.05908203125,
 							"height": 111,
 							"nameCompartment": {
@@ -2320,6 +2320,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGD4xQIVvNsu2E="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
 											"left": 437,
 											"top": 518,
@@ -2345,7 +2346,7 @@
 									"left": 432,
 									"top": 496,
 									"width": 221.3515625,
-									"height": 40,
+									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGD4xQIVvNtuGI="
 									},
@@ -2370,7 +2371,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 432,
-									"top": 536,
+									"top": 521,
 									"width": 221.3515625,
 									"height": 10
 								},
@@ -2395,7 +2396,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 551,
+											"top": 536,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "«constructor»+Dragao(nome: String)",
@@ -2412,7 +2413,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 566,
+											"top": 551,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "+atirarFogo(): void",
@@ -2429,7 +2430,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 581,
+											"top": 566,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "+voar(): void",
@@ -2446,7 +2447,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 596,
+											"top": 581,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "+morder(): void",
@@ -2463,7 +2464,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 611,
+											"top": 596,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "+andar(): void",
@@ -2480,7 +2481,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 626,
+											"top": 611,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "+guardarItem(): void",
@@ -2497,7 +2498,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 437,
-											"top": 641,
+											"top": 626,
 											"width": 211.3515625,
 											"height": 13,
 											"text": "+usarItem(): void",
@@ -2506,7 +2507,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 432,
-									"top": 546,
+									"top": 531,
 									"width": 221.3515625,
 									"height": 113
 								},
@@ -2548,8 +2549,7 @@
 							"left": 432,
 							"top": 496,
 							"width": 221.3515625,
-							"height": 163,
-							"showNamespace": true,
+							"height": 153,
 							"nameCompartment": {
 								"$ref": "AAAAAAGD4xQIVvNsu2E="
 							},
@@ -2588,7 +2588,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 526,
-									"top": 445,
+									"top": 441,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2609,7 +2609,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 511,
-									"top": 445,
+									"top": 441,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2630,7 +2630,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 555,
-									"top": 446,
+									"top": 442,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2648,7 +2648,7 @@
 								"$ref": "AAAAAAGD4xQIVvNr0DY="
 							},
 							"lineStyle": 1,
-							"points": "542:495;541:409",
+							"points": "542:495;541:401",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGD4xQIV/N2OLs="
@@ -2682,7 +2682,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 557,
-									"top": 690,
+									"top": 677,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2703,7 +2703,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 572,
-									"top": 690,
+									"top": 677,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2724,7 +2724,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 528,
-									"top": 691,
+									"top": 678,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2742,7 +2742,7 @@
 								"$ref": "AAAAAAGD4xQIVvNr0DY="
 							},
 							"lineStyle": 1,
-							"points": "543:659;543:735",
+							"points": "543:649;543:719",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGD4xQIWPN6OGA="
@@ -3853,7 +3853,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -4039,7 +4039,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -4328,7 +4328,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -4550,7 +4550,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -4772,7 +4772,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -4977,7 +4977,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -5197,7 +5197,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -5484,7 +5484,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -5669,7 +5669,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -5939,7 +5939,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -6228,7 +6228,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -7062,7 +7062,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -7248,7 +7248,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -7537,7 +7537,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -7759,7 +7759,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -7981,7 +7981,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -8186,7 +8186,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -8406,7 +8406,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -8693,7 +8693,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -8878,7 +8878,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -9148,7 +9148,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
@@ -9437,7 +9437,7 @@
 											"font": "Arial;13;0",
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "(from JavaReverse)"
+											"text": "(from Java)"
 										},
 										{
 											"_type": "LabelView",
