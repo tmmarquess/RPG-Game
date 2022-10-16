@@ -17,11 +17,11 @@ public class App {
         personagens.add(new Dragao("Anya"));
 
         personagens.add(new Mago("bibi"));
-        personagens.add(new Mago("Thithi"));
+        personagens.add(new Mago("Perdiz"));
 
         jogo.ControlarAcaoDosPersonagens(personagens);
 
-        Personagem p = new Mago("Perdiz");
+        Personagem p = new Mago("Fernando");
 
         ((Mago) p).invisibilidade();
     }

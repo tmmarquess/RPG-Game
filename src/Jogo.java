@@ -10,6 +10,7 @@ public class Jogo {
             personagem.andar();
             personagem.guardarItem();
             personagem.usarItem();
+            System.out.println("===============================");
         }
     }
 }

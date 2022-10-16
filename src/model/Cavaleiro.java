@@ -12,43 +12,36 @@ public class Cavaleiro extends Personagem implements ComportamentoHeroico {
 
     public Cavaleiro(String nome) {
         super(nome);
-        // TODO Auto-generated constructor stub
     }
 
     @Override
     public void atacar() {
-        // TODO Auto-generated method stub
         System.out.println("Cavaleiro %s está atacando".formatted(getNome()));
     }
 
     @Override
     public void defender() {
-        // TODO Auto-generated method stub
         System.out.println("Cavaleiro %s está se defendendo".formatted(getNome()));
     }
 
     @Override
     public void saltar() {
-        // TODO Auto-generated method stub
         System.out.println("Cavaleiro %s está pulando".formatted(getNome()));
     }
 
     @Override
     public void andar() {
-        // TODO Auto-generated method stub
         System.out.println("Cavaleiro %s está andando".formatted(getNome()));
     }
 
     @Override
     public void guardarItem() {
-        // TODO Auto-generated method stub
         System.out.println("Cavaleiro %s está guardando uma espada".formatted(getNome()));
     }
 
     @Override
     public void usarItem() {
-        // TODO Auto-generated method stub
-        System.out.println("Cavaleiro %s está usando um item".formatted(getNome()));
+        System.out.println("Cavaleiro %s está usando a espada".formatted(getNome()));
     }
 
 }
